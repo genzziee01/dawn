@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -6,8 +15,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "heading": "<strong>Upcoming trend?</strong>",
+            "heading_size": "hxl"
           }
         },
         "button": {
@@ -27,35 +36,35 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2026-07-25_at_9.10.01_PM.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
         "image_behavior": "none",
+        "desktop_content_position": "bottom-center",
         "desktop_content_alignment": "center",
+        "show_text_box": false,
         "color_scheme": "scheme-3",
-        "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
         "show_text_below": false
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
+        "collection": "all",
+        "products_to_show": 8,
         "title": "Featured products",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
         "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "enable_desktop_slider": false,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "swipe_on_mobile": false,
+        "color_scheme": "scheme-1",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -63,13 +72,139 @@
         "show_rating": false,
         "quick_add": "none",
         "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_MJPdez": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner_4paEyU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_m3VFBW": {
+          "type": "heading",
+          "settings": {
+            "heading": "Selling fastest!!",
+            "heading_size": "h1"
+          }
+        },
+        "text_D6NAxH": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Cmon don't be shy and buy it all.</em>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_m3VFBW",
+        "text_D6NAxH"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_13_10_PM.png",
+        "image_2": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_09_24_PM.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-4",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "featured_product_rCDbDq": {
+      "type": "featured-product",
+      "blocks": {
+        "text_tifHLF": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_cbJkAg": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_bTUJmK": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_WyhA9y": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_7FmMnf": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_xCWKCB": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_qWfNCh": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_tifHLF",
+        "title_cbJkAg",
+        "price_bTUJmK",
+        "variant_picker_WyhA9y",
+        "quantity_selector_7FmMnf",
+        "buy_buttons_xCWKCB",
+        "share_qWfNCh"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "honourable-oversized-graphic-t-shirt-premium-streetwear-edition",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "slideshow_MJPdez",
+    "image_banner_4paEyU",
+    "featured_product_rCDbDq"
   ]
 }

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -10,9 +19,11 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
+        "columns_mobile": "2",
         "color_scheme": "scheme-1",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -23,7 +34,636 @@
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": true,
-        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_qKwcTB": {
+      "type": "featured-product",
+      "blocks": {
+        "text_yPjGec": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_jHBdjg": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_V3pL3R": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_emAeLA": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_tpXEKV": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_HahKxh": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_HwEgVr": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_yPjGec",
+        "title_jHBdjg",
+        "price_V3pL3R",
+        "variant_picker_emAeLA",
+        "quantity_selector_tpXEKV",
+        "buy_buttons_HahKxh",
+        "share_HwEgVr"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "vasteguna-huiya-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_Fxk7cm": {
+      "type": "featured-product",
+      "blocks": {
+        "text_NUeT7d": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_rceCJM": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_Uz4jXM": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_zXz44X": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_ijxeax": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_zBQnG8": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_geABbb": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_NUeT7d",
+        "title_rceCJM",
+        "price_Uz4jXM",
+        "variant_picker_zXz44X",
+        "quantity_selector_ijxeax",
+        "buy_buttons_zBQnG8",
+        "share_geABbb"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "they-dont-really-care-about-us-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_8EYmnq": {
+      "type": "featured-product",
+      "blocks": {
+        "text_E6DqfQ": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_jx4edi": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_Wi7EW4": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_8JHm97": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_VWBDBi": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ndHVmz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_XQERfc": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_E6DqfQ",
+        "title_jx4edi",
+        "price_Wi7EW4",
+        "variant_picker_8JHm97",
+        "quantity_selector_VWBDBi",
+        "buy_buttons_ndHVmz",
+        "share_XQERfc"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "the-art-of-disappearing-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_M8CVCr": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Dqh98h": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_DktWjF": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_cye8t6": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_MJyVL9": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_c9mHaW": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_eVVPJj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_EKChUX": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_Dqh98h",
+        "title_DktWjF",
+        "price_cye8t6",
+        "variant_picker_MJyVL9",
+        "quantity_selector_c9mHaW",
+        "buy_buttons_eVVPJj",
+        "share_EKChUX"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "overthinking-department-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_6YDNYd": {
+      "type": "featured-product",
+      "blocks": {
+        "text_gxDpaM": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_jrqaGm": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_bcTLi3": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_HJHkkM": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_MpT8ih": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_PWfNf9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_aEiW8M": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_gxDpaM",
+        "title_jrqaGm",
+        "price_bcTLi3",
+        "variant_picker_HJHkkM",
+        "quantity_selector_MpT8ih",
+        "buy_buttons_PWfNf9",
+        "share_aEiW8M"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "noticeable-dont-just-exist-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_HWqcYL": {
+      "type": "featured-product",
+      "blocks": {
+        "text_KqLXf8": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_JdTfHf": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_JJxz9r": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_7dAE3J": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_V68dRY": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_BAcH6y": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_8R9qf7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_KqLXf8",
+        "title_JdTfHf",
+        "price_JJxz9r",
+        "variant_picker_7dAE3J",
+        "quantity_selector_V68dRY",
+        "buy_buttons_BAcH6y",
+        "share_8R9qf7"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "vasteguna-huiya-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_bNaqp7": {
+      "type": "featured-product",
+      "blocks": {
+        "text_N4X7LM": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_eBdN9z": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_RefCyP": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_aTazeK": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_gMQnmG": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_LWRRtG": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_J3yR6K": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_N4X7LM",
+        "title_eBdN9z",
+        "price_RefCyP",
+        "variant_picker_aTazeK",
+        "quantity_selector_gMQnmG",
+        "buy_buttons_LWRRtG",
+        "share_J3yR6K"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "honorable-knight-edition",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_dXEbga": {
+      "type": "featured-product",
+      "blocks": {
+        "text_niwHhh": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_bNNwQb": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_7mqhkj": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_zDFYCc": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_eQj4qf": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_yGzeTb": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_t96JNh": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_niwHhh",
+        "title_bNNwQb",
+        "price_7mqhkj",
+        "variant_picker_zDFYCc",
+        "quantity_selector_eQj4qf",
+        "buy_buttons_yGzeTb",
+        "share_t96JNh"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "fraands-oversized-graphic-t-shirt-we-all-pretend-together-edition",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_TdrtzK": {
+      "type": "featured-product",
+      "blocks": {
+        "text_fFkEK4": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_ByVwbN": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_iFwV3J": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_HaqGAJ": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_NDmpyD": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_eQ8zea": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_mGii4J": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_fFkEK4",
+        "title_ByVwbN",
+        "price_iFwV3J",
+        "variant_picker_HaqGAJ",
+        "quantity_selector_NDmpyD",
+        "buy_buttons_eQ8zea",
+        "share_mGii4J"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "ego-oversized-graphic-t-shirt-broken-crown-edition",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -31,6 +671,15 @@
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "featured_product_qKwcTB",
+    "featured_product_Fxk7cm",
+    "featured_product_8EYmnq",
+    "featured_product_M8CVCr",
+    "featured_product_6YDNYd",
+    "featured_product_HWqcYL",
+    "featured_product_bNaqp7",
+    "featured_product_dXEbga",
+    "featured_product_TdrtzK"
   ]
 }

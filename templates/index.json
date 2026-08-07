@@ -86,24 +86,10 @@
           "settings": {
             "collection": "opening-colection"
           }
-        },
-        "featured_collection_6qiLJA": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_Gt3Mx8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
-        "featured_collection_94pgwb",
-        "featured_collection_6qiLJA",
-        "featured_collection_Gt3Mx8"
+        "featured_collection_94pgwb"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {

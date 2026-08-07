@@ -94,7 +94,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "vasteguna-huiya-oversized-graphic-t-shirt",
+        "product": "honourable-oversized-graphic-t-shirt-premium-streetwear-edition",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
@@ -304,7 +304,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "overthinking-department-oversized-graphic-t-shirt",
+        "product": "bad-me-log-instagram-user-bann-jaate-hain-oversized-graphic-t-shirt",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
@@ -667,6 +667,76 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_product_YpHUfd": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Ui3rQx": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_Naehfd": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_hCKkfd": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_FawHTW": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_Kiz8zR": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_EmWbwX": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_Vt9C7J": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_Ui3rQx",
+        "title_Naehfd",
+        "price_hCKkfd",
+        "variant_picker_FawHTW",
+        "quantity_selector_Kiz8zR",
+        "buy_buttons_EmWbwX",
+        "share_Vt9C7J"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "bad-me-log-instagram-user-bann-jaate-hain-oversized-graphic-t-shirt",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -680,6 +750,7 @@
     "featured_product_HWqcYL",
     "featured_product_bNaqp7",
     "featured_product_dXEbga",
-    "featured_product_TdrtzK"
+    "featured_product_TdrtzK",
+    "featured_product_YpHUfd"
   ]
 }

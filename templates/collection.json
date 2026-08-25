@@ -248,76 +248,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_M8CVCr": {
-      "type": "featured-product",
-      "blocks": {
-        "text_Dqh98h": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_DktWjF": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_cye8t6": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_MJyVL9": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_c9mHaW": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_eVVPJj": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_EKChUX": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_Dqh98h",
-        "title_DktWjF",
-        "price_cye8t6",
-        "variant_picker_MJyVL9",
-        "quantity_selector_c9mHaW",
-        "buy_buttons_eVVPJj",
-        "share_EKChUX"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "bad-me-log-instagram-user-bann-jaate-hain-oversized-graphic-t-shirt",
-        "color_scheme": "scheme-4",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_product_6YDNYd": {
       "type": "featured-product",
       "blocks": {
@@ -598,6 +528,76 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_M8CVCr": {
+      "type": "featured-product",
+      "blocks": {
+        "text_Dqh98h": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_DktWjF": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_cye8t6": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_MJyVL9": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_c9mHaW": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_eVVPJj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_EKChUX": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_Dqh98h",
+        "title_DktWjF",
+        "price_cye8t6",
+        "variant_picker_MJyVL9",
+        "quantity_selector_c9mHaW",
+        "buy_buttons_eVVPJj",
+        "share_EKChUX"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "bad-me-log-instagram-user-bann-jaate-hain-oversized-graphic-t-shirt",
+        "color_scheme": "scheme-4",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_product_TdrtzK": {
       "type": "featured-product",
       "blocks": {
@@ -675,11 +675,11 @@
     "featured_product_qKwcTB",
     "featured_product_Fxk7cm",
     "featured_product_8EYmnq",
-    "featured_product_M8CVCr",
     "featured_product_6YDNYd",
     "featured_product_HWqcYL",
     "featured_product_bNaqp7",
     "featured_product_dXEbga",
+    "featured_product_M8CVCr",
     "featured_product_TdrtzK"
   ]
 }

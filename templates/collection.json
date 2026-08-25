@@ -14,7 +14,7 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "scheme-1"
+        "color_scheme": "scheme-4"
       }
     },
     "product-grid": {
@@ -95,7 +95,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "honourable-oversized-graphic-t-shirt-premium-streetwear-edition",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -165,7 +165,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "they-dont-really-care-about-us-oversized-graphic-t-shirt",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -235,7 +235,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "the-art-of-disappearing-oversized-graphic-t-shirt",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -305,7 +305,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "bad-me-log-instagram-user-bann-jaate-hain-oversized-graphic-t-shirt",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -375,7 +375,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "noticeable-dont-just-exist-oversized-graphic-t-shirt",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -445,7 +445,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "vasteguna-huiya-oversized-graphic-t-shirt",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -515,7 +515,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "honorable-knight-edition",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -585,7 +585,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "fraands-oversized-graphic-t-shirt-we-all-pretend-together-edition",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,
@@ -655,7 +655,7 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "ego-oversized-graphic-t-shirt-broken-crown-edition",
-        "color_scheme": "",
+        "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
         "constrain_to_viewport": true,

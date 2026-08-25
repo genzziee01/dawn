@@ -53,6 +53,10 @@
         "slide_Jzi6KQ",
         "slide_BNLJLy"
       ],
+      "custom_css": [
+        ".slideshow__controls-top {background: transparent !important;}",
+        ".slideshow__controls-top .slider-counter,.slideshow__controls-top .slider-buttons {color: #fff !important;}"
+      ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "full_bleed",

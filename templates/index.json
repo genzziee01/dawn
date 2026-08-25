@@ -53,10 +53,7 @@
         "slide_Jzi6KQ",
         "slide_BNLJLy"
       ],
-      "custom_css": [
-        ".slideshow__controls-top {background: transparent !important;}",
-        ".slideshow__controls-top .slider-counter,.slideshow__controls-top .slider-buttons {color: #fff !important;}"
-      ],
+      "custom_css": [],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "full_bleed",
@@ -167,7 +164,7 @@
         "text_D6NAxH": {
           "type": "text",
           "settings": {
-            "text": "<em>C'mon don't be shy and buy it all before its all gone!!</em>",
+            "text": "Limited stock — once it's gone, it's gone!!!",
             "text_style": "body"
           }
         }

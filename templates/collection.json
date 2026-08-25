@@ -318,76 +318,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_HWqcYL": {
-      "type": "featured-product",
-      "blocks": {
-        "text_KqLXf8": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_JdTfHf": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_JJxz9r": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_7dAE3J": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_V68dRY": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_BAcH6y": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_8R9qf7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_KqLXf8",
-        "title_JdTfHf",
-        "price_JJxz9r",
-        "variant_picker_7dAE3J",
-        "quantity_selector_V68dRY",
-        "buy_buttons_BAcH6y",
-        "share_8R9qf7"
-      ],
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "vasteguna-huiya-oversized-graphic-t-shirt",
-        "color_scheme": "scheme-4",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_product_bNaqp7": {
       "type": "featured-product",
       "blocks": {
@@ -515,6 +445,76 @@
       "name": "t:sections.featured-product.presets.name",
       "settings": {
         "product": "fraands-oversized-graphic-t-shirt-we-all-pretend-together-edition",
+        "color_scheme": "scheme-4",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_HWqcYL": {
+      "type": "featured-product",
+      "blocks": {
+        "text_KqLXf8": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_JdTfHf": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_JJxz9r": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_7dAE3J": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_V68dRY": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_BAcH6y": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_8R9qf7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_KqLXf8",
+        "title_JdTfHf",
+        "price_JJxz9r",
+        "variant_picker_7dAE3J",
+        "quantity_selector_V68dRY",
+        "buy_buttons_BAcH6y",
+        "share_8R9qf7"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "vasteguna-huiya-oversized-graphic-t-shirt",
         "color_scheme": "scheme-4",
         "secondary_background": false,
         "media_size": "medium",
@@ -676,9 +676,9 @@
     "featured_product_Fxk7cm",
     "featured_product_8EYmnq",
     "featured_product_6YDNYd",
-    "featured_product_HWqcYL",
     "featured_product_bNaqp7",
     "featured_product_dXEbga",
+    "featured_product_HWqcYL",
     "featured_product_M8CVCr",
     "featured_product_TdrtzK"
   ]

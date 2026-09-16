@@ -66,6 +66,40 @@
         "accessibility_info": ""
       }
     },
+    "collection_list_xNaw7e": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_gDPwtV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meme-drip"
+          }
+        },
+        "featured_collection_64Pe69": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "genzie-originals"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_gDPwtV",
+        "featured_collection_64Pe69"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "<strong>All Categories</strong>",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "color_scheme": "scheme-announcement-red",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_eYKCUH": {
       "type": "slideshow",
       "name": "t:sections.slideshow.presets.name",
@@ -234,6 +268,7 @@
   },
   "order": [
     "slideshow_NHthpA",
+    "collection_list_xNaw7e",
     "slideshow_eYKCUH",
     "featured_collection",
     "slideshow_MJPdez",
